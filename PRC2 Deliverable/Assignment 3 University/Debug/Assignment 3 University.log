@@ -1,0 +1,23 @@
+﻿  Assignment 3 University.cpp
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Assignment 3 University.cpp(149,23): warning C4018: '<': signed/unsigned mismatch
+  Group.cpp
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Group.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Group.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Group.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Group.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+  Person.cpp
+  Student.cpp
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Student.cpp(96,19): error C2248: 'Person::name': cannot access private member declared in class 'Person'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Person.h(10): message : see declaration of 'Person::name'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Person.h(7): message : see declaration of 'Person'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Student.cpp(97,19): error C2248: 'Person::age': cannot access private member declared in class 'Person'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Person.h(11): message : see declaration of 'Person::age'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Person.h(7): message : see declaration of 'Person'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Student.cpp(102,21): warning C4018: '<': signed/unsigned mismatch
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Student.cpp(116,18): error C2248: 'Person::name': cannot access private member declared in class 'Person'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Person.h(10): message : see declaration of 'Person::name'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Person.h(7): message : see declaration of 'Person'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Student.cpp(117,18): error C2248: 'Person::age': cannot access private member declared in class 'Person'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Person.h(11): message : see declaration of 'Person::age'
+C:\Programming\Programming projects\Year 3\Electives\PRC2\PRC2 Deliverable\Assignment 3 University\Person.h(7): message : see declaration of 'Person'
+  Generating Code...
